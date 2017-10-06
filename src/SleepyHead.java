@@ -41,10 +41,9 @@ import org.omg.Messaging.SyncScopeHelper;
 				  if (isWeekday&&!isVacation) {
 					  JOptionPane.showMessageDialog(null, "Get up lazybones!");	
 				}
+				  
 					
-				  if (isWeekday&&isVacation) {
-					  JOptionPane.showMessageDialog(null, "Sleep in!");	
-				}
+				
 				  
 
 				/*
